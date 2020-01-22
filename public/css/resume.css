@@ -9,7 +9,28 @@ body {
   padding-top: 54px;
   color: #868e96;
 }
+#web{
+  font-family: 'Saira Extra Condensed';
+}
 
+
+#skills{
+  background-color: rgba(233, 230, 245, 0.808);
+}
+#experience
+{
+  background-color: rgba(233, 230, 245, 0.808);
+}
+#java-card
+{
+  background-color: #5382a1;
+  color:white;
+}
+#javascript-card
+{
+  background-color: #3c873a;
+  color:white;
+}
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -76,11 +97,11 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: rgba(8, 12, 119, 0.986);
+  color: rgba(6, 114, 15, 0.986);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -160,11 +181,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: rgba(17, 20, 94, 0.849) !important;
+  background-color: rgba(17, 20, 94, 0.753) !important;
 }
 
 .text-primary {
-  color: rgba(8, 12, 119, 0.986)!important;
+  color: rgba(17, 20, 94, 0.753)!important;
 }
 
 a {
